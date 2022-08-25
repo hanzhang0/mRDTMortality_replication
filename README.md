@@ -1,7 +1,7 @@
 # Malaria Testing and Antibiotics Replication Repo
 
 ## Introduction
-This repo contains the replication code for the paper "Widescale Diffusion of Malaria Testing Increased Antibiotic Use in Africa" by Han Zhang, Günther Fink, and Jessica Cohen (2022). 
+This repo contains the replication code for the paper "Widescale Diffusion of Malaria Testing Increased Antibiotic Use in sub-Saharan Africa" by Han Zhang, Günther Fink, and Jessica Cohen (2022). 
 
 ## Code Structure 
 All code is written in Stata 17. Replication code for all figures and tables that are generated with code is provided. It is assumed that the reader already has access to the publicly available household survey datasets and malaria testing data (as shown in the synthetic data provided, see section on "data structure" for more information). The dofiles are organized into five parts as follows: 
